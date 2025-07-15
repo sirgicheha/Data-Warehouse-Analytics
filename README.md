@@ -20,12 +20,12 @@ This project contains a collection of SQL scripts and resources for exploring, a
 
 - **Analytics**  
  Contains SQL scripts for:
- - Change over time analysis
- - Cumulative analysis
- - Part to Whole Analysis
- - Performance Analysis
- - Data Segmentation Analysis
- - Customer and Product Reports
+  - Change over time analysis
+  - Cumulative analysis
+  - Part to Whole Analysis
+  - Performance Analysis
+  - Data Segmentation Analysis
+  - Customer and Product Reports
 
 ## Key Features
 
@@ -41,26 +41,27 @@ This project contains a collection of SQL scripts and resources for exploring, a
 - **Ranking Analysis:**  
   Identify top and bottom performers among products and customers using window functions and ranking queries.
 
-- **Change over time Analysis**
+- **Change over time Analysis**  
     Tracks trends, growth, and changes in key metrics over time. 
 
-- **Cumulative Analysis**
+- **Cumulative Analysis**  
     Tracks performance over time cumulatively for growth analysis or identifying long-term trends.
 
-- **Performance Analysis**
+- **Performance Analysis:**   
     Measures the performance of products, customers, or regions over time for benchmarking and identifying high-performing entities.
 
-- **Data Segmentation**
+- **Data Segmentation:**    
     Groups data into meaningful categories for targeted insights for customer segmentation, product categorization, or regional analysis.
 
-- **Part to Whole Analysis**
+- **Part to Whole Analysis:**   
     Compares performance or metrics across dimensions or time periods to evaluate differences between categories.
 
-- **Customer Report**
+- **Customer Report:**     
     This report consolidates key customer metrics and behaviors
 
-- **Products Report**
-    This report consolidates key product metrics and behaviors.
+- **Products Report:**  
+  This report consolidates key product metrics and behaviors.
+
 ## Usage
 
 1. Open the SQL scripts in your preferred SQL editor.
