@@ -37,5 +37,3 @@ FROM
 	FROM gold.fact_sales
 	WHERE order_date IS NOT NULL
 	GROUP BY DATETRUNC(YEAR, order_date)) t;
-
--- Moving 
